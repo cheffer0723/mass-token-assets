@@ -1,0 +1,10 @@
+{
+  "network": "Base Mainnet",
+  "deployed_via": "thirdweb",
+  "token_name": "Critical Mass",
+  "token_symbol": "MASS",
+  "decimals": 18,
+  "contract_address": "0x7a500D8A14CeeC2c9155aBF2657D072E132C9a1A",
+  "deployer_wallet": "0xbf68711C53295088aE93A09f6B2567810f944aDE",
+  "notes": "Deployed using thirdweb prebuilt ERC20 implementation. This file documents the live deployment."
+}
