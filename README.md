@@ -1,16 +1,20 @@
 # Critical Mass (MASS)
 
-Critical Mass (MASS) is an ERC-20 token deployed on Base Mainnet using thirdweb’s prebuilt ERC20 implementation.
+Critical Mass (MASS) is an ERC-20 token deployed on Base Mainnet using audited infrastructure.
 
-## Key Links
+## On-chain Details
 - Network: Base Mainnet
-- Contract Address: (0x7a500D8A14CeeC2c9155aBF2657D072E132C9a1A)
+- Contract Address: 0x7a500D8A14CeeC2c9155aBF2657D072E132C9a1A
 - Deployer Wallet: 0xbf68711C53295088aE93A09f6B2567810f944aDE
 
-## Repository Contents
+## Repository Structure
 - `assets/` — token logo and artwork
-- `deployments/` — deployment details (network, address, deployer)
-- `contracts/` — references and documentation about the contract source
+- `deployments/` — deployment records
+- `contracts/` — contract documentation and references
 
-## Disclaimer
-This repository is for transparency and documentation of the on-chain deployment.
+## Links
+- BaseScan: https://basescan.org/token/0x7a500D8A14CeeC2c9155aBF2657D072E132C9a1A
+- X (Twitter): (https://x.com/criticalmass_io)
+
+## Status
+Early-stage project. Documentation is a living record.
